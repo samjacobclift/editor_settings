@@ -1,0 +1,9 @@
+dbaeumer.vscode-eslint
+donjayamanne.python
+eg2.tslint
+freakypie.code-python-isort
+kalitaalexey.vscode-rust
+mrmlnc.vscode-pugbeautify
+mrmlnc.vscode-puglint
+msjsdiag.debugger-for-chrome
+rebornix.Ruby
