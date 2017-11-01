@@ -40,16 +40,14 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "eslint.autoFixOnSave": true,
   "eslint.run": "onType",
-  "python.pythonPath": "/Users/samclift/git/wazoku/wazoku-spotlight/ve/bin/python3.6",
-  "python.linting.enabled": true,
-  "python.linting.pep8Enabled": true,
-  "python.linting.flake8Enabled": false,
   "tslint.enable": true,
   "tslint.validateWithDefaultConfig": true,
-  "rust.rustup": {
-    "toolchain": "stable-x86_64-apple-darwin"
-  },
-  "rust.mode": "legacy",
   "window.zoomLevel": 0,
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.linting.enabled": true,
+  "python.linting.pep8Enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.formatting.formatOnSave": true,
+  "python.linting.pylintEnabled": false
 }
