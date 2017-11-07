@@ -1,0 +1,12 @@
+atom-typescript@11.0.10
+busy-signal@1.4.3
+ide-typescript@0.6.2
+intentions@1.1.5
+language-rust@0.4.12
+linter@2.2.0
+linter-eslint@8.4.0
+linter-flake8@2.2.1
+linter-rust@0.8.1
+linter-ui-default@1.6.10
+python-isort@0.0.7
+

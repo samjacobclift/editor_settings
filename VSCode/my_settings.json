@@ -1,0 +1,53 @@
+// Place your settings in this file to overwrite the default settings
+{
+  // Configure glob patterns for excluding files and folders.
+  "files.exclude": {
+    "**/.git": true,
+    "**/.pyc": true,
+    "**/.css": true,
+    "**/.js.html": true,
+    "**/.xml": true,
+    "**/.min.js": true,
+    "**/.svn": true,
+    "**/.DS_Store": true,
+    "**/node_modules/**": true,
+    "**/build/**": true,
+    "**/.tscache/**": true,
+    "**/.coverage/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.cache-loader": true,
+    "**/.awcache": true,
+    "**/bower_components": true,
+    "**/.tscache": true,
+    "**/.coverage": true,
+    "**/build": true,
+    "**/.min.js": true,
+    "**/.css": true
+  },
+  "puglint.enable": true,
+  "puglint.config": {
+    "extends": "/Users/samclift/git/wazoku/wazoku-spotlight/.pug-lintrc"
+  },
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vs-seti",
+  "files.trimTrailingWhitespace": true,
+  "eslint.validate": [
+    "javascript",
+    {"language": "typescript", "autoFix": true }
+  ],
+  "editor.multiCursorModifier": "ctrlCmd",
+  "eslint.autoFixOnSave": true,
+  "eslint.run": "onType",
+  "tslint.enable": true,
+  "tslint.validateWithDefaultConfig": true,
+  "window.zoomLevel": 0,
+  "workbench.startupEditor": "newUntitledFile",
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.linting.enabled": true,
+  "python.linting.pep8Enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.formatting.formatOnSave": true,
+  "python.linting.pylintEnabled": false
+}
